@@ -1,3 +1,3 @@
 # odevler
 
-Okul ödevleri
+Okul ödevleri ve boş zamanımda uğraştığım projeler
